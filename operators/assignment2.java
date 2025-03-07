@@ -1,6 +1,7 @@
 package operators;
 import java.util.Scanner;
 public class assignment2 {
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
         Scanner as2 = new Scanner(System.in);
         System.out.println("Enter the first number: ");
