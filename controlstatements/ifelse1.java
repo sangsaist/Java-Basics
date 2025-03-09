@@ -1,4 +1,4 @@
-package controlstatements;
+
 import java.util.Scanner;
 public class ifelse1 {
     public static void main(String[] args) {
