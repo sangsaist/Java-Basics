@@ -9,7 +9,7 @@ public class ifelseif {
         int c = sc.nextInt();
 
         if (a > b && a > c) {
-            System.out.println(a + " is the largest.");
+            System.out.println(a + " is the la.");
         } else if (b > c) {
             System.out.println(b + " is the largest.");
         } else {
