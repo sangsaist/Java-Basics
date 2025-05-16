@@ -1,10 +1,9 @@
+package controlstatements;
 
-public class While {
+public class for1 {
     public static void main(String[] args) {
-        int i = 1;
-        while (i <= 5) {
+        for (int i = 1; i <= 100; i++) {
             System.out.println(i);
-            i++;
         }
     }
     

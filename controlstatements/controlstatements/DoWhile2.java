@@ -1,3 +1,4 @@
+package controlstatements;
 import java.util.Scanner;
 
 public class DoWhile2 {
